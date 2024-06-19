@@ -13,19 +13,33 @@ This assignment aims to familiarize you with the tools and configurations necess
 1. Select Your Operating System (OS):
    Choose an operating system that best suits your preferences and project requirements. Download and Install Windows 11. https://www.microsoft.com/software-download/windows11
 
+   https://docs.google.com/document/d/1VQ2_3_6--WQsJa9Xh14ioB_jmIXFkxw_/edit?usp=sharing&ouid=108403752564093950273&rtpof=true&sd=true
+
 2. Install a Text Editor or Integrated Development Environment (IDE):
    Select and install a text editor or IDE suitable for your programming languages and workflow. Download and Install Visual Studio Code. https://code.visualstudio.com/Download
+
+   https://docs.google.com/document/d/1TPFbNlt_sq-dtbKarKWnm5AJVFH80uwz/edit?usp=sharing&ouid=108403752564093950273&rtpof=true&sd=true
+   
 3. Set Up Version Control System:
    Install Git and configure it on your local machine. Create a GitHub account for hosting your repositories. Initialize a Git repository for your project and make your first commit. https://github.com
+
+   https://docs.google.com/document/d/1vjQ8W18wZ7EXIozAC8_B5HyZfq1sg2y-/edit?usp=sharing&ouid=108403752564093950273&rtpof=true&sd=true
 
 4. Install Necessary Programming Languages and Runtimes:
   Instal Python from http://wwww.python.org programming language required for your project and install their respective compilers, interpreters, or runtimes. Ensure you have the necessary tools to build and execute your code.
 
+  https://docs.google.com/document/d/1jkUUTaQpG7P_Ua-5vY3cZ3RXeFg5b6iA/edit?usp=sharing&ouid=108403752564093950273&rtpof=true&sd=true
+
 5. Install Package Managers:
    If applicable, install package managers like pip (Python).
 
+   PIP already installed during Python installation
+   https://docs.google.com/document/d/1vodR6q3gwRMU8PFq-Bs6dEmlWWYVVMM0/edit?usp=sharing&ouid=108403752564093950273&rtpof=true&sd=true
+
 6. Configure a Database (MySQL):
    Download and install MySQL database. https://dev.mysql.com/downloads/windows/installer/5.7.html
+
+   https://docs.google.com/document/d/1tZIKJtlESOf7EOUeKUWTB5H3fxQMDCgh/edit?usp=sharing&ouid=108403752564093950273&rtpof=true&sd=true
 
 7. Set Up Development Environments and Virtualization (Optional):
    Consider using virtualization tools like Docker or virtual machines to isolate project dependencies and ensure consistent environments across different machines.
@@ -35,6 +49,8 @@ This assignment aims to familiarize you with the tools and configurations necess
 
 9. Document Your Setup:
     Create a comprehensive document outlining the steps you've taken to set up your developer environment. Include any configurations, customizations, or troubleshooting steps encountered during the process. 
+
+    https://docs.google.com/document/d/1f4-7HzMmHHUrZ0BUfo58qGWHsAzU4_1Y/edit?usp=sharing&ouid=108403752564093950273&rtpof=true&sd=true
 
 #Deliverables:
 - Document detailing the setup process with step-by-step instructions and screenshots where necessary.
