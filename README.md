@@ -47,6 +47,8 @@ This assignment aims to familiarize you with the tools and configurations necess
 8. Explore Extensions and Plugins:
    Explore available extensions, plugins, and add-ons for your chosen text editor or IDE to enhance functionality, such as syntax highlighting, linting, code formatting, and version control integration.
 
+https://docs.google.com/document/d/1S3pdDspWe8LL8NWLKbyRfIcugkU7JOt0/edit?usp=sharing&ouid=108403752564093950273&rtpof=true&sd=true
+
 9. Document Your Setup:
     Create a comprehensive document outlining the steps you've taken to set up your developer environment. Include any configurations, customizations, or troubleshooting steps encountered during the process. 
 
